@@ -4,3 +4,4 @@ n8n-data/
 n8n-data/
 .env
 .env.swp
+n8n-data/database.sqlite
